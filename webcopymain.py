@@ -1,4 +1,4 @@
-__author__ = 'phoenix'
+__author__ = 'phoenix_aka_cocoarocket'
 import re, os, urllib, httplib, sqlite3
 from datetime import datetime
 #import encodings
